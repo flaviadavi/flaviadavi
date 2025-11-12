@@ -4,3 +4,8 @@
 
 </center><img width="700" height="650" alt="Image" src="https://github.com/user-attachments/assets/db9e1607-d952-43fe-b10e-ab563db71415" />
 
+### 📁 Arquivos do Dashboard
+
+Você pode baixar a planilha completa do dashboard por este link:
+
+[Baixar Dashboard Excel (.xlsx)](./NomeDoSeuArquivo.xlsx)
