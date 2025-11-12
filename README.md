@@ -1,4 +1,6 @@
-# 📊 Flávia Davi
- Olá meu Nome é Flávia tenho 33 anos e sou natural do Pará, atualmente estou cursando um bootcamp na DIO com o tema análise de dados com excel e power bi, durante a jornada são apresentados alguns desafios como criação de projetos e desafios de código que estão colaborando pra meu crescimento profissional e conhecimento de ferramentas como Power bi e SQl e IA com foco em produtividade. 
+#  Flávia Davi
+ Olá meu Nome é Flávia tenho 33 anos, tudo beleza ? Meu foco é criar dashboards sobre negócios, finanças e contabilidade gosto de analisar os dados e também as informações geradas. Abaixo você pode baixar os arquivos do meu portifólio.
 
+
+</center><img width="700" height="650" alt="Image" src="https://github.com/user-attachments/assets/db9e1607-d952-43fe-b10e-ab563db71415" />
 
